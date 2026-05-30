@@ -4,7 +4,7 @@ This project is a single-file HTML explorer for the Koch Snowflake fractal. It i
 
 Remote URL:
 
-<https://relationshapez.github.io/kochfractal/>
+<https://relationshapez.github.io/koch_fractal/>
 
 ## Files
 
